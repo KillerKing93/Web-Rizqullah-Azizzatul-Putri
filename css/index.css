@@ -29,3 +29,7 @@
 .bg-pink {
     background-color: #ff69b4; /* Hot pink */
 }
+
+.border-style {
+  border: 3px solid #ff69b4; /* Example: 3px solid pink border */
+}
