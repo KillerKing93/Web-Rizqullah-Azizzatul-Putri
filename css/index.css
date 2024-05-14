@@ -25,3 +25,7 @@
     object-fit: cover;  /* Ensures the image covers the area without distorting aspect ratio */
     object-position: center;
 }
+
+.bg-pink {
+    background-color: #ff69b4; /* Hot pink */
+}
